@@ -6,13 +6,25 @@ If you want access to any of my repositories, please send me an email at alfonso
 
 ## Flutter:
 
+
+### Nomad Services:
+
+Mobile app that works on Android and iOS made using Flutter SDK and Firebase to store places crowdsourced by travelers.
+
+The app will be able let premium users save favorites.
+
+https://www.cartes.dev/nomad-services/
+
+
 ### Overview Webcams:
 
-Mobile app that works on Android and iOS made using Flutter SDK what access Webcams APIs and displays them in a map.
+Mobile app that works on Android and iOS made using Flutter SDK that access Webcams RESTful APIs and displays them in a map.
 
 Monetized by Admob and premium in-app subscription in future versions.
 
 The app will be able let premium users save favorites and be notified when new cameras in an area are available.
+
+https://www.cartes.dev/overview-webcams/
 
 
 ### AnyLeft
