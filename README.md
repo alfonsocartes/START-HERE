@@ -4,6 +4,42 @@ Hi.
 
 If you want access to any of my repositories, please send me an email to alfonsocartesg@gmail.com
 
+## Web Development:
+
+### FocusDay:
+
+Full Stack Web app made using:
+
+ReactJS
+React Hooks
+NextJS
+Mongoose
+NodeJS
+MongoDB
+Material-UI
+
+FocusDay let's you create ToDos and Notes and saves them in a database. It uses React Hooks to keep the state of the app and also saves it in a MongoDB database.
+
+https://www.cartes.dev/web-dev-portfolio/
+
+
+### Pokedex:
+
+Pokédex is a web app to showcase web development technologies such as:
+
+ReactJS
+NextJS
+Static Site Generation
+Server Side Rendering
+RESTful API
+TailWind CSS
+HTML 5
+
+You can download the code and build the app with Static Site Generation or Server Side Rendering 
+
+https://www.cartes.dev/web-dev-portfolio/
+
+
 ## Flutter:
 
 
