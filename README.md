@@ -6,6 +6,21 @@ If you want access to any of my repositories, please send me an email to alfonso
 
 ## Web Development:
 
+### cartes.dev:
+
+Full Stack Web app made using:
+
+React.js
+TailwindCSS
+MDX
+Next.js
+Static Site Generation
+Node.js
+Vercel Deployment
+
+[cartes.dev](https://www.cartes.dev) is the official website of the project.  
+Beta versions are deployed to: https://cartes.vercel.app from [this repo](https://github.com/alfonsocartes/cartes_dev) and you can find the production website at: https://www.cartes.dev.  
+
 ### FocusDay:
 
 Full Stack Web app made using:
