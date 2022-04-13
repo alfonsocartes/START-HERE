@@ -2,7 +2,7 @@
 
 Hi.
 
-If you want access to any of my repositories, please send me an email to alfonsocartesg@gmail.com
+If you want access to any of my repositories, please [send me a message](https://www.cartes.dev/contact)
 
 ## Web Development:
 
