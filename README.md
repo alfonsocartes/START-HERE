@@ -4,6 +4,13 @@ Hi.
 
 If you want access to any of my repositories, please [send me a message](https://www.cartes.dev/contact)
 
+## New Projects
+
+For new projects you can take a look at my website: [cartes.dev](https://www.cartes.dev) 
+
+
+## Old Projects
+
 ## Web Development:
 
 ### cartes.dev:
