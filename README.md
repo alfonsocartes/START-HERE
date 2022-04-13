@@ -11,9 +11,9 @@ For new projects you can take a look at my website: [cartes.dev](https://www.car
 
 ## Old Projects
 
-## Web Development:
+### Web Development:
 
-### cartes.dev:
+#### cartes.dev:
 
 Full Stack Web app made using:
 
@@ -28,7 +28,7 @@ Vercel Deployment
 [cartes.dev](https://www.cartes.dev) is the official website of the project.  
 Beta versions are deployed to: https://cartes.vercel.app from [this repo](https://github.com/alfonsocartes/cartes_dev) and you can find the production website at: https://www.cartes.dev.  
 
-### FocusDay:
+#### FocusDay:
 
 Full Stack Web app made using:
 
@@ -45,7 +45,7 @@ FocusDay let's you create ToDos and Notes and saves them in a database. It uses 
 https://www.cartes.dev/web-dev-portfolio/
 
 
-### Pokedex:
+#### Pokedex:
 
 Pokédex is a web app to showcase web development technologies such as:
 
@@ -62,10 +62,10 @@ You can download the code and build the app with Static Site Generation or Serve
 https://www.cartes.dev/web-dev-portfolio/
 
 
-## Flutter:
+### Flutter:
 
 
-### Nomad Services:
+#### Nomad Services:
 
 Mobile app that works on Android and iOS made using Flutter SDK and Firebase to store places crowdsourced by travelers.
 
@@ -74,7 +74,7 @@ The app will be able let premium users save favorites.
 https://www.cartes.dev/nomad-services/
 
 
-### Overview Webcams:
+#### Overview Webcams:
 
 Mobile app that works on Android and iOS made using Flutter SDK that access Webcams RESTful APIs and displays them in a map.
 
@@ -85,7 +85,7 @@ The app will be able let premium users save favorites and be notified when new c
 https://www.cartes.dev/overview-webcams/
 
 
-### AnyLeft
+#### AnyLeft
 
 www.cartes.dev/anyleft
 
@@ -95,9 +95,9 @@ The first version is directed at the **_#comidasolidaria_** campaign so that peo
 
 The app is made using **Flutter, Google Maps, Firebase, Firestore and Admob**.  
 
-## SwiftUI
+### SwiftUI
 
-### Overview City Guides v1
+#### Overview City Guides v1
 
 www.cartes.dev/overview-city-guides/
 
@@ -105,7 +105,7 @@ Mobile app made in Swift and SwiftUI for iOS. The app takes the user to a guided
 
 The user can track the current location in a map where all the tour sites are displayed.
 
-### Remember The Car
+#### Remember The Car
 
 iOS App to remember the location of your car
 
@@ -119,7 +119,7 @@ Swift
 SwiftUI
 Cocoapods (Google Admob)
 
-### CoronaVirus Tracker
+#### CoronaVirus Tracker
 
 iOS Learning App for learning about JSON parsing, Admob and CocoaPod.
 
